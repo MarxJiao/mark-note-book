@@ -1,0 +1,2 @@
+<!--miniprogram/pages/index.wxml-->
+<text bindtap="getData">miniprogram/pages/index.wxml</text>
